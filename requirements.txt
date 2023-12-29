@@ -1,0 +1,5 @@
+face_recognition
+flask
+tensorflow
+scikit-learn
+open-cv
